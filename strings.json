@@ -1,0 +1,6 @@
+{
+    "join": "User {0} joined {1}",
+    "leave": "User {0} leaved {1}",
+    "joincolor": [0, 255, 0],
+    "leavecolor": [255, 0, 0]
+}
